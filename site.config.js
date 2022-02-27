@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'lizhimiao的博客',
-  domain: 'https://www.notion.so/trusting-glitter-4f0/e8cd456ce4fa4851a824fa60156b32d9',
+  domain: 'https://trusting-glitter-4f0.notion.site/e8cd456ce4fa4851a824fa60156b32d9',
   author: 'zhimiao li',
 
   // open graph metadata (optional)
