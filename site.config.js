@@ -12,7 +12,7 @@ module.exports = {
   author: 'zhimiao li',
 
   // open graph metadata (optional)
-  description: '笔记、博客其他记录',
+  description: '笔记、博客和其他记录',
   socialImageTitle: 'lizhimiao的博客',
   socialImageSubtitle: '👋',
 
